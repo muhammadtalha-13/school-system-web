@@ -12,6 +12,9 @@
 # editor files
 /.idea
 
+# functions node_modules - Make sure to run 'npm install' inside functions folder
+/functions/node_modules
+
 # misc
 .DS_Store
 .env.local
